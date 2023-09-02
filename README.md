@@ -2,7 +2,7 @@
   <img src="https://github.r2v.ch/codewars?user=narendra28051991&theme=gradient" alt="CodeWars Profile">
 </p>
 
-<h1 align="center">Your Full Name</h1>
+<h1 align="center">Narendra Kumar Dommeti</h1>
 
 <p align="center">
   <b>Full-stack Developer</b>
