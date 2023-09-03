@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.r2v.ch/codewars?user=narendra28051991&theme=gradient" alt="CodeWars Profile">
+  <a href="https://www.codewars.com/users/narendra28051991">
+    <img src="https://www.codewars.com/users/narendra28051991/badges/large" alt="CodeWars Profile">
+  </a>
 </p>
 
 <h1 align="center">Narendra Kumar Dommeti</h1>
@@ -59,24 +61,3 @@ Feel free to reach out to me at [narendra28051991@gmail.com](mailto:narendra2805
     <img src="https://img.shields.io/badge/GitHub-narendra28051991-blue?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
 </p>
-
-<!--
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=narendra28051991&theme=gradient" />
-    </a>
-</p>
-
-**narendra28051991/narendra28051991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
