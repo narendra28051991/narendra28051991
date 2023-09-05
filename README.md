@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.codewars.com/users/narendra28051991">
-    <img src="https://www.codewars.com/users/narendra28051991/badges/large" alt="CodeWars Profile">
-  </a>
-</p>
-
 <h1 align="center">Narendra Kumar Dommeti</h1>
 
 <p align="center">
@@ -13,7 +7,6 @@
 <p align="center">
   <a href="mailto:narendra28051991@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/narendra28051991/">LinkedIn</a> |
-  <a href="https://github.com/narendra28051991">GitHub</a>
 </p>
 
 <p align="center">
@@ -49,6 +42,14 @@ Throughout my career, I have contributed to successful projects with excellent s
 - UI / UX Design
 - Agile / Scrum
 - Code Review
+
+## Codewars
+
+<p align="center">
+  <a href="https://www.codewars.com/users/narendra28051991">
+    <img src="https://www.codewars.com/users/narendra28051991/badges/micro" alt="CodeWars Profile" style="background-color: blue; width: 100px; height: 30px;">
+  </a>
+</p>
 
 ## Contact Me
 
