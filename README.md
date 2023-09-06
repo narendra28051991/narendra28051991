@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:narendra28051991@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/narendra28051991/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/narendra28051991/">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Throughout my career, I have contributed to successful projects with excellent s
 
 <p align="center">
   <a href="https://www.codewars.com/users/narendra28051991">
-    <img src="https://www.codewars.com/users/narendra28051991/badges/micro" alt="CodeWars Profile" style="background-color: blue; width: 100px; height: 30px;">
+    <img src="https://www.codewars.com/users/narendra28051991/badges/small" alt="CodeWars Profile">
   </a>
 </p>
 
