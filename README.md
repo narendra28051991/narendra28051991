@@ -51,6 +51,6 @@ Feel free to reach out to me at [narendra28051991@gmail.com](mailto:narendra2805
 
 <p align="center">
   <a href="https://www.codewars.com/users/narendra28051991">
-    <img src="https://img.shields.io/badge/CodeWars-Profile-2ea44f-blue?style=for-the-badge&logo=codewars" alt="CodeWars Profile">
+    <img src="https://img.shields.io/badge/CodeWars-Profile-2ea44f?style=for-the-badge&logo=codewars" alt="CodeWars Profile">
   </a>
 </p>
