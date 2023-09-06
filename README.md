@@ -43,14 +43,6 @@ Throughout my career, I have contributed to successful projects with excellent s
 - Agile / Scrum
 - Code Review
 
-## Codewars
-
-<p align="center">
-  <a href="https://www.codewars.com/users/narendra28051991">
-    <img src="https://img.shields.io/badge/CodeWars-Profile-2ea44f?style=for-the-badge&logo=codewars" alt="CodeWars Profile">
-  </a>
-</p>
-
 ## Contact Me
 
 Feel free to reach out to me at [narendra28051991@gmail.com](mailto:narendra28051991@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/narendra28051991/).
@@ -58,7 +50,7 @@ Feel free to reach out to me at [narendra28051991@gmail.com](mailto:narendra2805
 ---
 
 <p align="center">
-  <a href="https://github.com/narendra28051991">
-    <img src="https://img.shields.io/badge/GitHub-narendra28051991-blue?style=for-the-badge&logo=github" alt="GitHub Profile">
+  <a href="https://www.codewars.com/users/narendra28051991">
+    <img src="https://img.shields.io/badge/CodeWars-Profile-2ea44f-blue?style=for-the-badge&logo=codewars" alt="CodeWars Profile">
   </a>
 </p>
