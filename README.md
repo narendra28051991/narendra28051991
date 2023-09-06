@@ -47,7 +47,7 @@ Throughout my career, I have contributed to successful projects with excellent s
 
 <p align="center">
   <a href="https://www.codewars.com/users/narendra28051991">
-    <img src="https://www.codewars.com/users/narendra28051991/badges/small" alt="CodeWars Profile">
+    <img src="https://img.shields.io/badge/CodeWars-Profile-2ea44f?style=for-the-badge&logo=codewars" alt="CodeWars Profile">
   </a>
 </p>
 
