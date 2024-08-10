@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:narendra28051991@gmail.com">Email</a> |
+  <a href="mailto:dommeti.narendra@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/narendra28051991/">LinkedIn</a>
 </p>
 
@@ -23,9 +23,9 @@ Throughout my career, I have contributed to successful projects with excellent s
 
 ## Skills
 
-- **Front-end**: HTML, CSS, JavaScript, TypeScript, Next.js, ReactJS, Angular, Bootstrap
+- **Front-end**: HTML, CSS, TypeScript, Next.js, ReactJS, Angular, Bootstrap
 - **Back-end**: Node.js, Express.js, Python, C# .NET
-- **Datastore**: MySQL, PostgreSQL, Firebase, MongoDB Cluster
+- **Datastore**: Azure, MySQL, PostgreSQL, Firebase, MongoDB Cluster
 - **Version Control**: Git
 
 ## Continuous Integration
@@ -45,7 +45,7 @@ Throughout my career, I have contributed to successful projects with excellent s
 
 ## Contact Me
 
-Feel free to reach out to me at [narendra28051991@gmail.com](mailto:narendra28051991@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/narendra28051991/).
+Feel free to reach out to me at [dommeti.narendra@gmail.com](mailto:dommeti.narendra@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/narendra28051991/).
 
 ---
 
